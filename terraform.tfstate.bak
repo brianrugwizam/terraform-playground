@@ -1,0 +1,122 @@
+{
+  "version": 4,
+  "terraform_version": "1.10.5",
+  "serial": 38,
+  "lineage": "8554e286-97ae-f920-ca14-961e2d522ca6",
+  "outputs": {},
+  "resources": [
+    {
+      "mode": "managed",
+      "type": "petstore2_pet",
+      "name": "clifford",
+      "provider": "provider[\"hashicorp.com/edu/petstore2\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "id": "12345",
+            "name": "Clifford the Big Blue Dog"
+          },
+          "sensitive_attributes": []
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "petstore2_pet",
+      "name": "fluffy",
+      "provider": "provider[\"hashicorp.com/edu/petstore2\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "id": "56321",
+            "name": "Fluffy"
+          },
+          "sensitive_attributes": []
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "petstore2_pet",
+      "name": "fluffy2",
+      "provider": "provider[\"hashicorp.com/edu/petstore2\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "id": "563212",
+            "name": "Fluffy2"
+          },
+          "sensitive_attributes": []
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "petstore2_pet",
+      "name": "garfield",
+      "provider": "provider[\"hashicorp.com/edu/petstore2\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "id": "54321",
+            "name": "Garfield the all eating cat"
+          },
+          "sensitive_attributes": []
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "petstore2_pet",
+      "name": "hartendief",
+      "provider": "provider[\"hashicorp.com/edu/petstore2\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "id": "56328",
+            "name": "Romeo"
+          },
+          "sensitive_attributes": []
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "petstore2_pet",
+      "name": "ponjo",
+      "provider": "provider[\"hashicorp.com/edu/petstore2\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "id": "56323",
+            "name": "ponjo"
+          },
+          "sensitive_attributes": []
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "petstore2_pet",
+      "name": "zeester",
+      "provider": "provider[\"hashicorp.com/edu/petstore2\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "id": "56322",
+            "name": "piano"
+          },
+          "sensitive_attributes": []
+        }
+      ]
+    }
+  ],
+  "check_results": null
+}
