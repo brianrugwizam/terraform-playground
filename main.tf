@@ -12,6 +12,22 @@ resource "petstore2_pet" "clifford" {
   name = "Clifford the Big Blue Dog"
 }
 
+resource "petstore2_pet" "Djip" {
+  name = "Djip the Big Orange Dawg"
+}
+
+resource "petstore2_pet" "AnotherAnimal" {
+  name = "Pet333"
+}
+
+resource "petstore2_pet" "Pet13" {
+  name = "Pet1"
+}
+
+resource "petstore2_pet" "Pet3" {
+  name = "Pet3"
+}
+
 resource "petstore2_pet" "garfield" {
   name = "Garfield the all eating cat"
 }
@@ -20,30 +36,22 @@ resource "petstore2_pet" "ody" {
   name = "Garfield's pet"
 }
 
-resource "petstore2_pet" "fluffy" {
-  name    = "Fluffy"
+resource "petstore2_pet" "bert" {
+  name = "Bert the pet"
+}
+
+resource "petstore2_pet" "frank" {
+  name = "Frank the pet"
 }
 
 resource "petstore2_pet" "luffy" {
   name    = "Luffy"
 }
 
-
-resource "petstore2_pet" "brian" {
-  name    = "Brian"
-}
-
-resource "petstore2_pet" "luffy2" {
-  name    = "Luffy2"
-}
-
 resource "petstore2_pet" "fluffy2" {
   name    = "Fluffy2"
 }
 
-resource "petstore2_pet" "ponjo" {
-  name    = "ponjo"
-}
 resource "petstore2_pet" "zeester" {
   name    = "piano"
 }
